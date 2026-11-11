@@ -1,0 +1,404 @@
+{
+  "updated_at": "2026-11-11T11:54:51+00:00",
+  "base": "USD",
+  "fx": {
+    "er_api": {
+      "source": "open.er-api.com",
+      "as_of": "2026-11-11T00:02:32+00:00",
+      "per_usd": {
+        "USD": 1,
+        "EUR": 0.893927,
+        "UAH": 45.584588,
+        "RUB": 82.98451
+      },
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    },
+    "nbu": {
+      "source": "bank.gov.ua",
+      "date": "2026-11-11",
+      "uah_per": {
+        "USD": 45.5013,
+        "EUR": 51.0795
+      },
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    },
+    "monobank": {
+      "source": "api.monobank.ua",
+      "as_of": "2026-11-11T07:16:13+00:00",
+      "uah_per": {
+        "USD": {
+          "buy": 45.66,
+          "sell": 46.0596
+        },
+        "EUR": {
+          "buy": 50.86,
+          "sell": 51.5305
+        }
+      },
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    }
+  },
+  "stablecoins": {
+    "source": "coingecko.com",
+    "as_of": "2026-11-11T11:54:44+00:00",
+    "price": {
+      "USDT": {
+        "USD": 0.999274,
+        "EUR": 0.897208,
+        "UAH": 45.45,
+        "RUB": 82.79
+      },
+      "USDC": {
+        "USD": 0.999653,
+        "EUR": 0.897548,
+        "UAH": 45.47,
+        "RUB": 82.82
+      }
+    },
+    "stale": false,
+    "fetched_at": "2026-11-11T11:54:51+00:00"
+  },
+  "earn": [
+    {
+      "exchange": "bybit",
+      "coin": "USDT",
+      "product": "flexible",
+      "base_apr": 2.38,
+      "promo_apr": 7.38,
+      "promo_limit": 100.0,
+      "stale": true,
+      "fetched_at": "2026-11-11T11:53:17+00:00"
+    },
+    {
+      "exchange": "bybit",
+      "coin": "USDC",
+      "product": "flexible",
+      "base_apr": 2.42,
+      "promo_apr": 5.42,
+      "promo_limit": 100.0,
+      "stale": true,
+      "fetched_at": "2026-11-11T11:53:17+00:00"
+    },
+    {
+      "exchange": "bybit",
+      "coin": "BTC",
+      "product": "flexible",
+      "base_apr": 0.1,
+      "promo_apr": 0.4,
+      "promo_limit": 0.003,
+      "stale": true,
+      "fetched_at": "2026-11-11T11:53:17+00:00"
+    },
+    {
+      "exchange": "bybit",
+      "coin": "ETH",
+      "product": "flexible",
+      "base_apr": 0.8,
+      "promo_apr": null,
+      "promo_limit": null,
+      "stale": true,
+      "fetched_at": "2026-11-11T11:53:17+00:00"
+    },
+    {
+      "exchange": "binance",
+      "coin": "USDT",
+      "product": "flexible",
+      "base_apr": 3.7229,
+      "promo_apr": 11.7229,
+      "promo_limit": 1000.0,
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    },
+    {
+      "exchange": "binance",
+      "coin": "USDC",
+      "product": "flexible",
+      "base_apr": 2.0128,
+      "promo_apr": 9.0128,
+      "promo_limit": 10000.0,
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    },
+    {
+      "exchange": "binance",
+      "coin": "BTC",
+      "product": "flexible",
+      "base_apr": 0.0181,
+      "promo_apr": 0.2681,
+      "promo_limit": 0.01,
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    },
+    {
+      "exchange": "binance",
+      "coin": "ETH",
+      "product": "flexible",
+      "base_apr": 1.1396,
+      "promo_apr": 1.2396,
+      "promo_limit": 0.2,
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    },
+    {
+      "exchange": "okx",
+      "coin": "USDT",
+      "product": "flexible",
+      "base_apr": 3.52,
+      "promo_apr": null,
+      "promo_limit": null,
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    },
+    {
+      "exchange": "okx",
+      "coin": "USDC",
+      "product": "flexible",
+      "base_apr": 2.98,
+      "promo_apr": null,
+      "promo_limit": null,
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    },
+    {
+      "exchange": "okx",
+      "coin": "BTC",
+      "product": "flexible",
+      "base_apr": 0.0079,
+      "promo_apr": null,
+      "promo_limit": null,
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    },
+    {
+      "exchange": "okx",
+      "coin": "ETH",
+      "product": "flexible",
+      "base_apr": 0.7,
+      "promo_apr": null,
+      "promo_limit": null,
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    }
+  ],
+  "stale": [
+    "bybit"
+  ],
+  "inflation": {
+    "USD": {
+      "source": "BLS CPI-U (api.bls.gov)",
+      "measure": "CPI, к тому же месяцу прошлого года",
+      "period": "2026-09",
+      "yoy": 3.74,
+      "mom": 0.59,
+      "series": [
+        {
+          "period": "2025-09",
+          "yoy": 3.01
+        },
+        {
+          "period": "2025-11",
+          "yoy": 2.74
+        },
+        {
+          "period": "2025-12",
+          "yoy": 2.68
+        },
+        {
+          "period": "2026-01",
+          "yoy": 2.39
+        },
+        {
+          "period": "2026-02",
+          "yoy": 2.41
+        },
+        {
+          "period": "2026-03",
+          "yoy": 3.26
+        },
+        {
+          "period": "2026-04",
+          "yoy": 3.81
+        },
+        {
+          "period": "2026-05",
+          "yoy": 4.25
+        },
+        {
+          "period": "2026-06",
+          "yoy": 3.53
+        },
+        {
+          "period": "2026-07",
+          "yoy": 3.36
+        },
+        {
+          "period": "2026-08",
+          "yoy": 3.4
+        },
+        {
+          "period": "2026-09",
+          "yoy": 3.74
+        }
+      ],
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    },
+    "EUR": {
+      "source": "Eurostat HICP (prc_hicp_minr)",
+      "measure": "HICP, к тому же месяцу прошлого года",
+      "period": "2026-10",
+      "yoy": 4.0,
+      "mom": 0.4,
+      "series": [
+        {
+          "period": "2025-11",
+          "yoy": 2.1
+        },
+        {
+          "period": "2025-12",
+          "yoy": 2.0
+        },
+        {
+          "period": "2026-01",
+          "yoy": 1.7
+        },
+        {
+          "period": "2026-02",
+          "yoy": 1.9
+        },
+        {
+          "period": "2026-03",
+          "yoy": 2.6
+        },
+        {
+          "period": "2026-04",
+          "yoy": 3.0
+        },
+        {
+          "period": "2026-05",
+          "yoy": 3.2
+        },
+        {
+          "period": "2026-06",
+          "yoy": 2.8
+        },
+        {
+          "period": "2026-07",
+          "yoy": 2.9
+        },
+        {
+          "period": "2026-08",
+          "yoy": 3.2
+        },
+        {
+          "period": "2026-09",
+          "yoy": 3.8
+        },
+        {
+          "period": "2026-10",
+          "yoy": 4.0
+        }
+      ],
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    },
+    "UAH": {
+      "source": "IMF CPI (api.imf.org)",
+      "measure": "CPI, к тому же месяцу прошлого года",
+      "period": "2026-09",
+      "yoy": 10.0,
+      "mom": null,
+      "series": [
+        {
+          "period": "2025-10",
+          "yoy": 10.88
+        },
+        {
+          "period": "2025-11",
+          "yoy": 9.26
+        },
+        {
+          "period": "2025-12",
+          "yoy": 7.96
+        },
+        {
+          "period": "2026-01",
+          "yoy": 7.42
+        },
+        {
+          "period": "2026-02",
+          "yoy": 7.64
+        },
+        {
+          "period": "2026-03",
+          "yoy": 7.85
+        },
+        {
+          "period": "2026-04",
+          "yoy": 8.61
+        },
+        {
+          "period": "2026-05",
+          "yoy": 8.18
+        },
+        {
+          "period": "2026-06",
+          "yoy": 7.2
+        },
+        {
+          "period": "2026-07",
+          "yoy": 7.73
+        },
+        {
+          "period": "2026-08",
+          "yoy": 8.07
+        },
+        {
+          "period": "2026-09",
+          "yoy": 10.0
+        }
+      ],
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    },
+    "UAH_core": {
+      "source": "НБУ (bank.gov.ua)",
+      "measure": "базовая инфляция, к тому же месяцу прошлого года",
+      "period": "2026-10",
+      "yoy": 9.7,
+      "mom": 1.4,
+      "ytd": 9.2,
+      "stale": false,
+      "fetched_at": "2026-11-11T11:54:51+00:00"
+    }
+  },
+  "matrix": {
+    "USD": {
+      "USD": 1.0,
+      "EUR": 0.893927,
+      "UAH": 45.584588,
+      "RUB": 82.98451
+    },
+    "EUR": {
+      "USD": 1.11866,
+      "EUR": 1.0,
+      "UAH": 50.993636,
+      "RUB": 92.831417
+    },
+    "UAH": {
+      "USD": 0.021937,
+      "EUR": 0.01961,
+      "UAH": 1.0,
+      "RUB": 1.820451
+    },
+    "RUB": {
+      "USD": 0.01205,
+      "EUR": 0.010772,
+      "UAH": 0.549314,
+      "RUB": 1.0
+    }
+  }
+}
