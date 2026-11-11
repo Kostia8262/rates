@@ -1,8 +1,8 @@
 date,exchange,coin,product,base_apr,promo_apr,promo_limit
 2026-11-11,binance,BTC,flexible,0.019,0.269,0.01
-2026-11-11,binance,ETH,flexible,1.14,1.24,0.2
-2026-11-11,binance,USDC,flexible,1.9882,8.9882,10000.0
-2026-11-11,binance,USDT,flexible,3.7419,11.7419,1000.0
+2026-11-11,binance,ETH,flexible,1.1402,1.2402,0.2
+2026-11-11,binance,USDC,flexible,1.9981,8.9981,10000.0
+2026-11-11,binance,USDT,flexible,3.7474,11.7474,1000.0
 2026-11-11,bybit,BTC,flexible,0.1,0.4,0.003
 2026-11-11,bybit,ETH,flexible,0.8,,
 2026-11-11,bybit,USDC,flexible,2.42,5.42,100.0
@@ -10,4 +10,4 @@ date,exchange,coin,product,base_apr,promo_apr,promo_limit
 2026-11-11,okx,BTC,flexible,0.0078,,
 2026-11-11,okx,ETH,flexible,0.7,,
 2026-11-11,okx,USDC,flexible,2.94,,
-2026-11-11,okx,USDT,flexible,3.52,,
+2026-11-11,okx,USDT,flexible,3.53,,
