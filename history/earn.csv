@@ -15,3 +15,15 @@ date,exchange,coin,product,base_apr,promo_apr,promo_limit
 2026-11-11,okx,ETH,flexible,0.7,,
 2026-11-11,okx,USDC,flexible,2.94,,
 2026-11-11,okx,USDT,flexible,3.53,,
+2026-11-12,binance,BTC,flexible,0.0162,0.2662,0.01
+2026-11-12,binance,ETH,flexible,1.1532,1.2532,0.2
+2026-11-12,binance,USDC,flexible,2.4886,9.4886,10000.0
+2026-11-12,binance,USDT,flexible,3.5583,11.5583,1000.0
+2026-11-12,bitget,BTC,flexible,0.12,1.88,0.003
+2026-11-12,bitget,ETH,flexible,1.3,6.66,0.1
+2026-11-12,bitget,USDC,flexible,1.88,6.66,300.0
+2026-11-12,bitget,USDT,flexible,3.35,11.35,1000.0
+2026-11-12,okx,BTC,flexible,0.0081,,
+2026-11-12,okx,ETH,flexible,0.69,,
+2026-11-12,okx,USDC,flexible,2.88,,
+2026-11-12,okx,USDT,flexible,3.45,,
