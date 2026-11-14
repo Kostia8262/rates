@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T11:34:43+00:00",
+  "updated_at": "2026-11-14T16:43:10+00:00",
   "base": "USD",
   "fx": {
     "er_api": {
@@ -12,7 +12,7 @@
         "RUB": 82.504954
       },
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     "nbu": {
       "source": "bank.gov.ua",
@@ -22,44 +22,44 @@
         "EUR": 50.222
       },
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     "monobank": {
       "source": "api.monobank.ua",
-      "as_of": "2026-11-14T03:26:13+00:00",
+      "as_of": "2026-11-14T12:30:06+00:00",
       "uah_per": {
         "USD": {
-          "buy": 45.46,
-          "sell": 45.861
+          "buy": 45.43,
+          "sell": 45.8295
         },
         "EUR": {
-          "buy": 50.31,
-          "sell": 51.01
+          "buy": 50.25,
+          "sell": 50.9502
         }
       },
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     }
   },
   "stablecoins": {
     "source": "coingecko.com",
-    "as_of": "2026-11-14T11:34:42+00:00",
+    "as_of": "2026-11-14T16:43:08+00:00",
     "price": {
       "USDT": {
-        "USD": 0.999235,
-        "EUR": 0.906456,
-        "UAH": 45.44,
+        "USD": 0.999346,
+        "EUR": 0.906557,
+        "UAH": 45.45,
         "RUB": 82.77
       },
       "USDC": {
-        "USD": 0.99958,
-        "EUR": 0.906769,
+        "USD": 0.999635,
+        "EUR": 0.906819,
         "UAH": 45.46,
-        "RUB": 82.79
+        "RUB": 82.8
       }
     },
     "stale": false,
-    "fetched_at": "2026-11-14T11:34:43+00:00"
+    "fetched_at": "2026-11-14T16:43:10+00:00"
   },
   "earn": [
     {
@@ -106,61 +106,61 @@
       "exchange": "binance",
       "coin": "USDT",
       "product": "flexible",
-      "base_apr": 2.7312,
-      "promo_apr": 10.7312,
+      "base_apr": 2.6775,
+      "promo_apr": 10.6775,
       "promo_limit": 1000.0,
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     {
       "exchange": "binance",
       "coin": "USDC",
       "product": "flexible",
-      "base_apr": 1.753,
-      "promo_apr": 8.753,
+      "base_apr": 1.7624,
+      "promo_apr": 8.7624,
       "promo_limit": 10000.0,
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     {
       "exchange": "binance",
       "coin": "BTC",
       "product": "flexible",
-      "base_apr": 0.0141,
-      "promo_apr": 0.2641,
+      "base_apr": 0.0138,
+      "promo_apr": 0.2638,
       "promo_limit": 0.01,
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     {
       "exchange": "binance",
       "coin": "ETH",
       "product": "flexible",
-      "base_apr": 1.1747,
-      "promo_apr": 1.2747,
+      "base_apr": 1.1865,
+      "promo_apr": 1.2865,
       "promo_limit": 0.2,
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     {
       "exchange": "okx",
       "coin": "USDT",
       "product": "flexible",
-      "base_apr": 3.18,
+      "base_apr": 3.15,
       "promo_apr": null,
       "promo_limit": null,
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     {
       "exchange": "okx",
       "coin": "USDC",
       "product": "flexible",
-      "base_apr": 2.61,
+      "base_apr": 2.57,
       "promo_apr": null,
       "promo_limit": null,
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     {
       "exchange": "okx",
@@ -170,37 +170,37 @@
       "promo_apr": null,
       "promo_limit": null,
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     {
       "exchange": "okx",
       "coin": "ETH",
       "product": "flexible",
-      "base_apr": 0.82,
+      "base_apr": 0.83,
       "promo_apr": null,
       "promo_limit": null,
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     {
       "exchange": "bitget",
       "coin": "USDT",
       "product": "flexible",
-      "base_apr": 2.78,
-      "promo_apr": 10.78,
+      "base_apr": 3.25,
+      "promo_apr": 11.25,
       "promo_limit": 1000.0,
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     {
       "exchange": "bitget",
       "coin": "USDC",
       "product": "flexible",
-      "base_apr": 1.7,
+      "base_apr": 1.69,
       "promo_apr": 6.66,
       "promo_limit": 300.0,
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     {
       "exchange": "bitget",
@@ -210,7 +210,7 @@
       "promo_apr": 1.88,
       "promo_limit": 0.003,
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     {
       "exchange": "bitget",
@@ -220,7 +220,7 @@
       "promo_apr": 6.66,
       "promo_limit": 0.1,
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     }
   ],
   "stale": [
@@ -284,7 +284,7 @@
         }
       ],
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     "EUR": {
       "source": "Eurostat HICP (prc_hicp_minr)",
@@ -343,7 +343,7 @@
         }
       ],
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     "UAH": {
       "source": "IMF CPI (api.imf.org)",
@@ -402,7 +402,7 @@
         }
       ],
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     },
     "UAH_core": {
       "source": "НБУ (bank.gov.ua)",
@@ -412,7 +412,7 @@
       "mom": 1.4,
       "ytd": 9.2,
       "stale": false,
-      "fetched_at": "2026-11-14T11:34:43+00:00"
+      "fetched_at": "2026-11-14T16:43:10+00:00"
     }
   },
   "matrix": {
@@ -452,7 +452,7 @@
       "yoy": 2.3
     },
     "stale": false,
-    "fetched_at": "2026-11-14T11:34:43+00:00"
+    "fetched_at": "2026-11-14T16:43:10+00:00"
   },
   "uah_deval": {
     "source": "НБУ (bank.gov.ua)",
@@ -464,7 +464,7 @@
     ],
     "pct": 7.32,
     "stale": false,
-    "fetched_at": "2026-11-14T11:34:43+00:00"
+    "fetched_at": "2026-11-14T16:43:10+00:00"
   },
   "inflation_strict": {
     "USD": {
